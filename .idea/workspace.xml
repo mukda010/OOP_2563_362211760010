@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LAB5_2/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LAB5_2/Exercise.java" afterDir="false" />
-    </list>
+    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,13 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611023628370</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="LAB3_ex">
+      <created>1611024725384</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1611024725384</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex" />
     <MESSAGE value="ex_LAB3" />
     <MESSAGE value="LAB3" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB3" />
+    <MESSAGE value="LAB3_ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB3_ex" />
   </component>
 </project>
