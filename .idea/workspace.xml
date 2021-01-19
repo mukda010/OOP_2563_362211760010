@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="" />
+    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="ex_LAB3">
+      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_check_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_2563_362211760010/LAB3/Assignment.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Assignment">
+  <component name="RunManager" selected="Application.ex_array">
     <configuration name="Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LAB3.Assignment" />
       <module name="OOP_2563_362211760010" />
@@ -41,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex_do_while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LAB3.ex_do_while" />
+    <configuration name="ex_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LAB5.ex_array" />
       <module name="OOP_2563_362211760010" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LAB3.*" />
+          <option name="PATTERN" value="LAB5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex_array" />
         <item itemvalue="Application.Assignment" />
         <item itemvalue="Application.ex_if_else_if" />
         <item itemvalue="Application.ex_if" />
         <item itemvalue="Application.ex_nested_loop" />
-        <item itemvalue="Application.ex_do_while" />
       </list>
     </recent_temporary>
   </component>
@@ -119,11 +127,19 @@
       <option name="project" value="LOCAL" />
       <updated>1610271263886</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ex_LAB3">
+      <created>1610271461584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610271461584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex" />
+    <MESSAGE value="ex_LAB3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex_LAB3" />
   </component>
 </project>
