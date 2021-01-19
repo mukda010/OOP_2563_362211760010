@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="ex_LAB3">
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_check_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOP_2563_362211760010/LAB3/Assignment.class" beforeDir="false" />
-    </list>
+    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610271461584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ex_LAB3">
+      <created>1611022038001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611022038001</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
