@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_StringToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_stringl.java" afterDir="false" />
+    <list default="true" id="77ac2743-0430-4853-9c60-c4d0ac454564" name="Default Changelist" comment="updatedata">
+      <change afterPath="$PROJECT_DIR$/src/LAB7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/StudentApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611025733531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updatedata">
+      <created>1611028480695</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611028480695</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,6 +240,7 @@
     <MESSAGE value="ex_LAB3" />
     <MESSAGE value="LAB3_ex" />
     <MESSAGE value="LAB3" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB3" />
+    <MESSAGE value="updatedata" />
+    <option name="LAST_COMMIT_MESSAGE" value="updatedata" />
   </component>
 </project>
